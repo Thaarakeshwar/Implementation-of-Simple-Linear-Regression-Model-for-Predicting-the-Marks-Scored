@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba0c2486-90e6-4c16-b36e-8a8d9d29d41f" /># Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -81,7 +81,9 @@ plt.show()
 <img width="495" height="169" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/03fb9911-b9c5-4a1d-a770-b0fe29d8701b" />
 <img width="373" height="88" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/3d20763d-3c24-41fa-97fa-7cc41ea18ae9" />
 <img width="421" height="87" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/4a081be2-ce0b-499e-923f-bc460a373572" />
-![Uploading Screenshot (88).png…]()
+<img width="933" height="708" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/5ee691c8-b99a-4a6c-8790-cae937cf6000" />
+
+
 
 
 
