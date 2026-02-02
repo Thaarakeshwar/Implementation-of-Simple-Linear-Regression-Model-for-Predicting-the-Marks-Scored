@@ -79,8 +79,11 @@ plt.show()
 ## Output:
 
 <img width="495" height="169" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/03fb9911-b9c5-4a1d-a770-b0fe29d8701b" />
+
 <img width="373" height="88" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/3d20763d-3c24-41fa-97fa-7cc41ea18ae9" />
+
 <img width="421" height="87" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/4a081be2-ce0b-499e-923f-bc460a373572" />
+
 <img width="933" height="708" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/5ee691c8-b99a-4a6c-8790-cae937cf6000" />
 
 
